@@ -33,14 +33,3 @@ Les six notebooks forment une progression cohérente :
 
 - Python 3.10+, NumPy, SciPy, Matplotlib, SymPy
 - Connaissances en analyse L3 (topologie, intégration de Lebesgue)
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
-## Contexte
-
-Projet personnel réalisé en parallèle du M1 SSD à l'Université Grenoble Alpes,
-en préparation d'une intégration en master de mathématiques appliquées.
