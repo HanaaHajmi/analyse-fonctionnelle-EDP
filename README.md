@@ -3,21 +3,6 @@
 Exploration numérique et théorique des outils fondamentaux de l'analyse fonctionnelle
 et des équations aux dérivées partielles classiques.
 
-## Structure du dépôt
-
-```
-analyse-fonctionnelle-EDP/
-├── notebooks/
-│   ├── 01_topologie_espaces_normes.ipynb
-│   ├── 02_espaces_hilbert.ipynb
-│   ├── 03_distributions_sobolev.ipynb
-│   ├── 04_formulation_variationnelle.ipynb
-│   ├── 05_edp_poisson_chaleur_ondes.ipynb
-│   └── 06_fourier_analyse_harmonique.ipynb
-├── requirements.txt
-└── README.md
-```
-
 ## Fil conducteur
 
 Les six notebooks forment une progression cohérente :
