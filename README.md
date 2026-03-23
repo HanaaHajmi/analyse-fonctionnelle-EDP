@@ -29,7 +29,3 @@ Les six notebooks forment une progression cohérente :
 5. **EDP classiques** — Poisson (éléments finis P1), chaleur (Euler implicite), ondes (Newmark)
 6. **Fourier et analyse harmonique** — série de Fourier, DFT, FFT, lien avec les EDP
 
-## Prérequis
-
-- Python 3.10+, NumPy, SciPy, Matplotlib, SymPy
-- Connaissances en analyse L3 (topologie, intégration de Lebesgue)
